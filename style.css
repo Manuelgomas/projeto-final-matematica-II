@@ -1,0 +1,16 @@
+body{
+    background-color: rgba(255, 0, 0, 0.801);
+    font font-family:impact comics-sans ;
+}
+footer{
+    background-color: rgb(0, 0, 0);
+    color:rgb(157, 255, 0);
+    position:relative;
+    bottom:0%;
+    width:100%;
+}
+footer p{
+    text-align: center;
+    font-size: 1rem;
+    margin-top:5rem;
+}
